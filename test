@@ -7,7 +7,7 @@ this is coded poorly btw
 ]]
 
 _G.AutofarmSettings = {
-    ["AttackMode"] = "3",
+    ["AttackMode"] = "4",
     --// ^ 1 - Fast Punch | 2 - Super Punch | 3 - Knife (PROB THE FASTEST).
 
     ["Fps"] = "10",
